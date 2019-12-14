@@ -1,0 +1,48 @@
+html {
+    background-image: url("../img/1.jpg");
+    background-size: cover;
+}
+
+nav {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+
+a {
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: brown;
+    color: white;
+    padding: 4px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 0px;
+}
+
+table {
+    color: black;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: solid black 5px;
+    border-collapse: collapse;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: white;
+}
+
+th {
+    border: solid black 2px;
+    padding: 4px;
+}
+
+td {
+    border: solid black 2px;
+    padding: 4px;
+}

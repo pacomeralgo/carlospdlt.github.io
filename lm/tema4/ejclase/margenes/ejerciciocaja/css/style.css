@@ -1,0 +1,30 @@
+section [name="p"] {
+
+    background-color: white;
+    height: 100px;
+    width: 300px;
+    border: 4px dotted red;
+    overflow: hidden;
+}
+
+section [name="p1"] {
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border: 4px dotted blue;
+    overflow: scroll;
+}
+
+section [name="p2"] {
+    border-image-width: 1cm;
+    background-color: white;
+    height: 100px;
+    width: 300px;
+    border: 4px dotted green;
+    overflow: visible;
+}
+
+img {
+    width: 300px;
+    height: 100px;
+}

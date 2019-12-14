@@ -1,0 +1,31 @@
+html {
+    background-image: url("../img/1.jpg");
+    background-size: cover;
+}
+
+nav {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+
+a {
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: brown;
+    color: white;
+    padding: 4px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 0px;
+}
+
+h1 {
+    color: white;
+}

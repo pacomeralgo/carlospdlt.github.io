@@ -1,0 +1,15 @@
+p,
+span {
+    font-size: 16px;
+    color: brown;
+}
+
+p span {
+    font-size: 14px;
+    color:blue;
+}
+
+header p {
+    font-size: 22px;
+    color: rgb(255, 0, 170);
+}

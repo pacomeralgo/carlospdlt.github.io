@@ -1,0 +1,53 @@
+html {
+    background-image: url("../img/1.jpg");
+    background-size: cover;
+}
+
+nav {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    background-color: rgb(139, 69, 19, 0.8);
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+a {
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color: brown;
+    color: white;
+    padding: 4px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 0px;
+}
+
+section {
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    width: 400px;
+}
+
+fieldset {
+    background-color: rgb(2, 133, 2, 0.8);
+}
+
+h1 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-size: 60px;
+    background-color: rgb(2, 133, 2, 0.8);
+    width: 370px;
+
+}

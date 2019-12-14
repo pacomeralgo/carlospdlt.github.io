@@ -1,0 +1,35 @@
+body {
+    background-color: #004d40;
+}
+
+article {
+    background-color: #fff9c4;
+    border: solid #ffeb3b;
+    padding: 20px;
+}
+
+p {
+    color: #ffa726;
+}
+
+h2 {
+    color: #ff7043;
+}
+
+a {
+    color: #ff9800;
+    padding: 4px;
+    border: solid;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+
+a:hover {
+    font-size: 2em;
+    border: solid;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}

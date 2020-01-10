@@ -1,0 +1,27 @@
+.countainer {
+    display: flex;
+}
+
+.countainer>div {
+    font-size: 2vw
+        /*Porcentaje de anchura*/
+    ;
+    padding: .5em
+        /*Multiplo del tamaño de letra*/
+    ;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    flex-grow: 3;
+}
+
+.green {
+    background-color: green;
+    flex-grow: 2;
+}
+
+.blue {
+    background-color: blue;
+}

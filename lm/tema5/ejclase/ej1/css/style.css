@@ -1,0 +1,24 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: aqua;
+    border: 3px blue solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+span {
+    background-color: red;
+    border: 1px black solid;
+}
+
+.pa {
+    position: relative;
+    background-color: yellow;
+    bottom: -30px;
+    left: 30px;
+}
+
